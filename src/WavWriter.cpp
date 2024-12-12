@@ -1,5 +1,6 @@
 #include <fstream>
 #include <vector>
+#include <iostream>
 #include "../include/WavWriter.hpp"
 #include "../include/WavHeader.hpp"
 
